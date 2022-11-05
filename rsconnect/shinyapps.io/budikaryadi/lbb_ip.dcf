@@ -1,0 +1,14 @@
+name: lbb_ip
+title: lbb_ip
+username:
+account: budikaryadi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7436694
+bundleId: 6446208
+url: https://budikaryadi.shinyapps.io/lbb_ip/
+when: 1666857662.40807
+lastSyncTime: 1666857662.40808
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data_input/youtubetrends.csv|flexdashboard_final.Rmd|www/youtube-logo.png
